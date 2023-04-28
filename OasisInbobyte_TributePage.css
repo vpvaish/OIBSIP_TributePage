@@ -1,0 +1,63 @@
+.center{
+    margin-top: 1cm;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 15cm;
+    height: 15cm;
+    border: #333;
+    border-radius: 40px;
+
+}
+
+.text{
+    text-align:center;
+}
+
+
+
+
+body {
+    font-family:'Times New Roman', Times, serif ;
+    /* font-size: xx-large; */
+    font-weight: 300;
+    font-size:xx-large;
+    text-decoration: double;
+    margin: 0;
+    padding: 0;
+font-size: large;
+
+
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 36px;
+  }
+  
+  h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  main {
+    max-width:40cm;
+   
+  }
+
+  .logo1{
+width: 35px;
+border-radius: 50%;
+object-fit: cover;
+  }
+
+
+
+  .btn btn-link{
+    color: yellow;
+  }
